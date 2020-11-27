@@ -37,7 +37,7 @@ Here are two [Alfred Powerpack Themes](https://www.alfredapp.com/help/appearance
 [Discuss on Alfred Forum](https://www.alfredforum.com/topic/15214-hey-email-inspired-themes/).
 
 <p align="center">
-  <a href="https://github.com/chrismessina/alfred-app/raw/master/themes/hey/hey-themes.zip" class="button">
+  <a href="https://github.com/chrismessina/alfred-theme-hey/hey-themes.zip" class="button">
     Download Themes
   </a>
 </p>
@@ -55,7 +55,7 @@ This theme makes use of Apple's [San Francisco font](https://developer.apple.com
 [![Hey Theme (Light) - Alfred Theme Preview](./assets/hey-light.png)](./assets/hey-light.png)
 
 <p align="center">
-  <a href="https://github.com/chrismessina/alfred-app/raw/master/themes/hey/hey-light-light.zip" class="button">
+  <a href="https://github.com/chrismessina/alfred-theme-hey/raw/main/hey-theme-light.zip" class="button">
     Download - Hey Theme (Light)
   </a>
 </p>
@@ -65,7 +65,7 @@ This theme makes use of Apple's [San Francisco font](https://developer.apple.com
 [![Hey Theme (Dark) - Alfred Theme Preview](./assets/hey-dark.png)](./assets/hey-dark.png)
 
 <p align="center">
-  <a href="https://github.com/chrismessina/alfred-app/raw/master/themes/hey/hey-light-dark.zip" class="button">
+  <a href="https://github.com/chrismessina/alfred-theme-hey/raw/main/hey-theme-dark.zip" class="button">
     Download - Hey Theme (Dark)
   </a>
 </p>
