@@ -1,35 +1,3 @@
-<style type="text/css">
-  .button {
-    transition: color 0.2s ease, text-decoration-color 0.2s ease, box-shadow 0.2s ease;
-    transform: none;
-    margin: 0 0 0 0.6em;
-    display: inline-block;
-    line-height: 1.5;
-    font-weight: 700;
-  	display: inline-block;
-  	padding: 0.4em 1em;
-  	color: #fff;
-  	text-decoration: none;
-  	text-align: center;
-  	line-height: normal;
-  	-webkit-appearance: none;
-  	background-color: #5522fa !important;
-  	background: linear-gradient(90deg, #5522fa 0%, #0074e4 100%) !important;
-  	border-radius: 1.5em;
-  	border: 0;
-  	box-shadow: none;
-  }
-  .button:hover, .button:focus {
-  	color: #fff;
-  	cursor: pointer;
-  	text-decoration: none;
-  	box-shadow: 0 0 0 0.15rem #5fddc5;
-  }
-  .button:visited {
-    color: #fff;
-  }
-</style>
-
 # Hey Powerpack Theme
 
 Here are two [Alfred Powerpack Themes](https://www.alfredapp.com/help/appearance/) that are based on [Hey](https://hey.com/), a new take on email from Basecamp.
@@ -96,3 +64,5 @@ These are the Hey interfaces from which this theme is derived.
 ## About
 
 These themes are unaffiliated with nor endorsed by Basecamp.
+
+<a href="https://www.alfredforum.com/topic/15214-hey-email-inspired-themes/">Alfred Forum link.</a>
